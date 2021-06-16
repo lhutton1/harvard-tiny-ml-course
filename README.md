@@ -12,11 +12,10 @@ Setup virtual environment in project root:
 ```bash
 python3 -m venv venv
 source venv/bin/activate
-pip install jupyter
+pip install -r requirements.txt
 ```
 
 Start jupyter server:
 ```bash
 jupyter notebook
 ```
-
