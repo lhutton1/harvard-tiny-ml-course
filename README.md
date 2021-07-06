@@ -1,8 +1,8 @@
 # Harvard TinyML Course
 Focuses on the fusion of machine learning and embedded systems. This course is split into three sections:
 
-1. [Fundamentals of TinyML](https://www.edx.org/course/fundamentals-of-tinyml?index=product&queryID=e649f7e28b0aafae3a9225c518814c2e&position=10) <-- Currently here
-2. [Applications of TinyML](https://www.edx.org/course/applications-of-tinyml?index=product&queryID=e649f7e28b0aafae3a9225c518814c2e&position=19)
+1. [Fundamentals of TinyML](https://www.edx.org/course/fundamentals-of-tinyml?index=product&queryID=e649f7e28b0aafae3a9225c518814c2e&position=10)
+2. [Applications of TinyML](https://www.edx.org/course/applications-of-tinyml?index=product&queryID=e649f7e28b0aafae3a9225c518814c2e&position=19) <-- Currently here
 3. [Deploying TinyML](https://www.edx.org/course/deploying-tinyml?index=product&queryID=e649f7e28b0aafae3a9225c518814c2e&position=22)
 
 ## Usage
