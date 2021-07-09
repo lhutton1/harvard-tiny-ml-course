@@ -1,2 +1,6 @@
 .ipynb_checkpoints/
 venv/
+applications/exp_saved_model/
+
+.pb
+.DS_Store
