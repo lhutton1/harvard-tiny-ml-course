@@ -15,7 +15,8 @@ source venv/bin/activate
 pip install -r requirements.txt
 ```
 
-Start jupyter server:
+Enable widgets to be displayed and start jupyter server:
 ```bash
+jupyter nbextension enable --py widgetsnbextension
 jupyter notebook
 ```
