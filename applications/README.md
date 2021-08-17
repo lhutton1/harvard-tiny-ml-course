@@ -5,5 +5,6 @@ This course explores the machine learning workflow from training to edge device.
 2. [Quantization aware training](./quantization-aware-training.ipynb)
 3. [Preprocessing audio samples](./preprocessing-audio-samples.ipynb)
 4. [Keyword spotting](./keyword-spotting.ipynb) _unfinished_
-5. [Mask Detection using Transfer Learning](./mask-detection-using-transfer-learning.ipynb)
-6. [Autoencoders for anomaly detection](./autoencoders-for-anomaly-detection.ipynb)
+5. [Mask detection using transfer learning](./mask-detection-using-transfer-learning.ipynb)
+6. [K-means clustering for anomaly detection](#)
+7. [Autoencoders for anomaly detection](./autoencoders-for-anomaly-detection.ipynb)
