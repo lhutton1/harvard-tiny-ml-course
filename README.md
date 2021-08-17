@@ -20,3 +20,6 @@ Enable widgets to be displayed and start jupyter server:
 jupyter nbextension enable --py widgetsnbextension
 jupyter notebook
 ```
+
+## Acknowledgement
+The content of these notbooks is largely based on learnings from the edX course freely available [here](https://github.com/tinyMLx). I recreated these notebooks purely for my understanding and education, adding additional notes along the way.

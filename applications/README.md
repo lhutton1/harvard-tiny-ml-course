@@ -4,4 +4,6 @@ This course explores the machine learning workflow from training to edge device.
 1. [Post traning optimization and quantization](./post-training-optimisation.ipynb)
 2. [Quantization aware training](./quantization-aware-training.ipynb)
 3. [Preprocessing audio samples](./preprocessing-audio-samples.ipynb)
+4. [Keyword spotting](./keyword-spotting.ipynb) _unfinished_
+5. [Mask Detection using Transfer Learning](./mask-detection-using-transfer-learning.ipynb)
 
