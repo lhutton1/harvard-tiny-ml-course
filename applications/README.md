@@ -8,4 +8,3 @@ This course explores the machine learning workflow from training to edge device.
 5. [Mask detection using transfer learning](./mask-detection-using-transfer-learning.ipynb)
 6. [K-means clustering for anomaly detection](./k-means-clustering-for-anomaly-detection.ipynb)
 7. [Autoencoders for anomaly detection](./autoencoders-for-anomaly-detection.ipynb)
-8. []
