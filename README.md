@@ -6,16 +6,27 @@ Focuses on the fusion of machine learning and embedded systems. This course is s
 3. [Deploying TinyML](https://www.edx.org/course/deploying-tinyml?index=product&queryID=e649f7e28b0aafae3a9225c518814c2e&position=22) <-- Currently here
 
 ## Usage
-The project uses jupyter notebooks.
+### Setup python environment
+This project consists of a number of Jupyter notebooks. Since a number of python packages are used to support this material, [Poetry](https://python-poetry.org/) has been used to manage dependencies.
 
-Setup virtual environment in project root:
+1. First, [install poetry](https://python-poetry.org/docs/master/#installation) for your OS. We use version 1.1.10.
+
+2. Verify poetry is installed.
 ```bash
-python3 -m venv venv
-source venv/bin/activate
-pip install -r requirements.txt
+poetry --version
 ```
 
-Enable widgets to be displayed and start jupyter server:
+3. Install dependencies.
+```bash
+poetry install
+```
+
+4. Activate virtual environment.
+```bash
+source $(poetry env info --path)/bin/activate
+```
+
+### Start Jupyter notebook
 ```bash
 jupyter nbextension enable --py widgetsnbextension
 jupyter notebook
